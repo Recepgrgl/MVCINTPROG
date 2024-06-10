@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MvcOdevIntProgrmaciligi.Models.Relationships;
-using MvcOdevIntProgrmaciligi.Models;
+using Sube2.HelloMvc.Models.Relationships;
+using Sube2.HelloMvc.Models;
 
-namespace MvcOdevIntProgrmaciligi.Controllers
+namespace Sube2.HelloMvc.Controllers
 {
     public class DersController : Controller
     {
